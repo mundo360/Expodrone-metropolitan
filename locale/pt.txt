@@ -1,11 +1,23 @@
 #: locale=pt
 
+## Action
+
+### URL
+LinkBehaviour_3A0462F4_29C3_9726_41C3_84BC5662C14E.source = https://wa.me/5561991723090
+LinkBehaviour_3ACCD636_29FD_7F22_4190_E519D68A15D8.source = https://wa.me/5561991723090
+WebFrame_3A2D2135_29CC_9526_41BE_86373E2EC1AC.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.2776742735073!2d-47.888781626019586!3d-15.789305984850294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3f88bbc106cf%3A0xbd6e9172875ba53e!2sMetropolitan%20Hotel%20Bras%C3%ADlia!5e0!3m2!1spt-BR!2sbr!4v1714395064458!5m2!1spt-BR!2sbr
+LinkBehaviour_3D62F876_29C4_9322_41BA_9F249E43E9AF.source = https://www.instagram.com/fight_guara/
+LinkBehaviour_3D62E876_29C4_9322_4192_58231EAED1CA.source = https://www.instagram.com/grupodronesdf/
+
 ## Hotspot
 
 ### Text
 HotspotPanoramaOverlayTextImage_0F0541AA_168A_ECC2_4173_4D45EF7FB9AA.text = Drone Expo
 
 ## Media
+
+### Audio
+audiores_3F5B697C_29DC_F526_4197_A9EC63D851DD.mp3Url = media/audio_3FCE1570_29C3_FD3E_41AB_DB7EBABD7EEE_pt.mp3
 
 ### Image
 imlevel_0CD6E05F_1697_EC42_41AD_7275C32D02BA.url = media/panorama_1D76C83D_167E_FBC6_4192_6065024B5648_HS_c9hplcmj_pt.png
@@ -24,8 +36,87 @@ panorama_1D739EF4_167F_7446_419E_CF68ADA8F730.label = Foto6-edit
 panorama_1D70660E_167F_77C2_41B5_7F74DC3C9233.label = Foto7-edit
 panorama_1D705CF5_167F_5446_41A3_0660C0862A8C.label = Foto8-edit
 panorama_1D706332_167E_ADC2_4169_3DA26C9FBD58.label = Foto9-edit
+album_38DC7A25_29DF_F726_41A9_E99D29781B5B_0.label = WhatsApp Image 2024-04-23 at 10.53.53
+photo_262A5F01_29CD_EEDE_41B3_5732312A7265.label = WhatsApp Image 2024-04-26 at 16.08.33
+photo_262A5F01_29CD_EEDE_41B3_5732312A7265.label = WhatsApp Image 2024-04-26 at 16.08.33
+photo_262A105E_29CD_9362_419E_AF1B5CE89928.label = WhatsApp Image 2024-04-26 at 19.18.44
+photo_262A105E_29CD_9362_419E_AF1B5CE89928.label = WhatsApp Image 2024-04-26 at 19.18.44
+photo_262BF182_29CD_95E2_41B3_39EC5A0B8887.label = WhatsApp Image 2024-04-26 at 19.19.13
+photo_262BF182_29CD_95E2_41B3_39EC5A0B8887.label = WhatsApp Image 2024-04-26 at 19.19.13
+photo_262BA2B5_29CD_9726_4192_0C04ECB07BFA.label = WhatsApp Image 2024-04-26 at 19.31.30
+photo_262BA2B5_29CD_9726_4192_0C04ECB07BFA.label = WhatsApp Image 2024-04-26 at 19.31.30
+photo_262B7413_29CD_92E2_41A4_EEA14774307E.label = WhatsApp Image 2024-04-26 at 19.31.31
+photo_262B7413_29CD_92E2_41A4_EEA14774307E.label = WhatsApp Image 2024-04-26 at 19.31.31
+photo_262BB55B_29CD_9D62_419E_5A24E941F26C.label = WhatsApp Image 2024-04-27 at 23.38.32
+photo_262BB55B_29CD_9D62_419E_5A24E941F26C.label = WhatsApp Image 2024-04-27 at 23.38.32
+photo_262A6C83_29CD_F3E2_41BF_FA5FE7CBCE70.label = WhatsApp Image 2024-04-27 at 23.38.33
+photo_262A6C83_29CD_F3E2_41BF_FA5FE7CBCE70.label = WhatsApp Image 2024-04-27 at 23.38.33
+photo_262B66FF_29CD_9F22_4175_6321DB99D2F4.label = WhatsApp Image 2024-04-27 at 23.38.33 (1)
+photo_262B66FF_29CD_9F22_4175_6321DB99D2F4.label = WhatsApp Image 2024-04-27 at 23.38.33 (1)
+photo_262BBB03_29CD_96E2_41C4_067D3428CD99.label = WhatsApp Image 2024-04-27 at 23.38.34
+photo_262BBB03_29CD_96E2_41C4_067D3428CD99.label = WhatsApp Image 2024-04-27 at 23.38.34
+photo_262B6977_29CD_9522_41AE_C1B7E73AD732.label = WhatsApp Image 2024-04-27 at 23.38.34 (1)
+photo_262B6977_29CD_9522_41AE_C1B7E73AD732.label = WhatsApp Image 2024-04-27 at 23.38.34 (1)
+photo_262A3DBF_29CD_ED22_41C2_A2F47B1CCE28.label = WhatsApp Image 2024-04-27 at 23.38.34 (2)
+photo_262A3DBF_29CD_ED22_41C2_A2F47B1CCE28.label = WhatsApp Image 2024-04-27 at 23.38.34 (2)
+photo_262B483A_29CD_9322_41A6_158F84B887FC.label = WhatsApp Image 2024-04-27 at 23.38.34 (3)
+photo_262B483A_29CD_9322_41A6_158F84B887FC.label = WhatsApp Image 2024-04-27 at 23.38.34 (3)
+photo_262BAE87_29CD_AFE2_419C_880673FB8BE5.label = WhatsApp Image 2024-04-27 at 23.38.35
+photo_262BAE87_29CD_AFE2_419C_880673FB8BE5.label = WhatsApp Image 2024-04-27 at 23.38.35
+photo_39214B0B_29CD_F6E2_41AA_947042B6D0CB.label = WhatsApp Image 2024-04-27 at 23.38.35 (1)
+photo_39214B0B_29CD_F6E2_41AA_947042B6D0CB.label = WhatsApp Image 2024-04-27 at 23.38.35 (1)
+photo_262BAD5E_29CD_AD62_41C2_2B0EF4612776.label = WhatsApp Image 2024-04-27 at 23.38.35 (2)
+photo_262BAD5E_29CD_AD62_41C2_2B0EF4612776.label = WhatsApp Image 2024-04-27 at 23.38.35 (2)
+photo_262B6C2E_29CD_9322_419E_476D20CEF3D3.label = WhatsApp Image 2024-04-27 at 23.38.35 (3)
+photo_262B6C2E_29CD_9322_419E_476D20CEF3D3.label = WhatsApp Image 2024-04-27 at 23.38.35 (3)
+photo_262B40E8_29CD_B32E_41C2_D7F08047CFB8.label = WhatsApp Image 2024-04-27 at 23.38.36
+photo_262B40E8_29CD_B32E_41C2_D7F08047CFB8.label = WhatsApp Image 2024-04-27 at 23.38.36
+photo_262BAFB2_29CD_AD22_41AF_C6A98DF5FF09.label = WhatsApp Image 2024-04-27 at 23.38.36 (1)
+photo_262BAFB2_29CD_AD22_41AF_C6A98DF5FF09.label = WhatsApp Image 2024-04-27 at 23.38.36 (1)
+photo_262B9288_29CD_B7EE_4192_65BE35043C25.label = WhatsApp Image 2024-04-28 at 17.40.59
+photo_262B9288_29CD_B7EE_4192_65BE35043C25.label = WhatsApp Image 2024-04-28 at 17.40.59
+album_38DC7A25_29DF_F726_41A9_E99D29781B5B.label = capa exposição
 panorama_076AC3F3_1696_AC42_41A1_E2250F531729.label = entrando-edit
 panorama_1AE7144C_167E_D446_41B1_D330B7698E77.label = porta-edit
+video_390F8A3B_29CD_B722_41BB_980D2E322094.label = video expo
+
+### Video
+videolevel_30233133_2A3C_9522_4187_D2D04849A769.posterURL = media/video_390F8A3B_29CD_B722_41BB_980D2E322094_poster_pt.jpg
+videolevel_30233133_2A3C_9522_4187_D2D04849A769.url = media/video_390F8A3B_29CD_B722_41BB_980D2E322094_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_3ACCE636_29FD_7F22_41C1_3EE50D0F6DA4.label = Fale Conosco
+
+### Image
+Image_3A04D2F4_29C3_9726_41C3_6C017794B981.url = skin/Image_3A04D2F4_29C3_9726_41C3_6C017794B981_pt.png
+Image_3ACB0636_29FD_7F22_41C4_48C6E63D50C7.url = skin/Image_3ACB0636_29FD_7F22_41C4_48C6E63D50C7_pt.jpg
+Image_3D620876_29C4_9322_41C2_C17BA1C70585.url = skin/Image_3D620876_29C4_9322_41C2_C17BA1C70585_pt.png
+
+### Label
+Label_3D626876_29C4_9322_4185_BFDC53BBCDE1.text = @GRUPODRONESDF
+Label_3D622876_29C4_9322_41AE_F518C44C2BBA.text = Deseja ir ao instagram ?
+Label_3A0422F4_29C3_9726_41BA_71B76A74373A.text = NÃO
+Label_3D625876_29C4_9322_41BF_E8D3B85B32A9.text = NÃO
+Label_3A04E2F4_29C3_9726_41BE_4D56E509C6AB.text = Realizar contato Whatsapp?
+Label_3A0402F4_29C3_9726_4189_CD3E613FAB7D.text = SIM
+Label_3D623876_29C4_9322_41C2_59450A8E7FA5.text = SIM
+
+### Multiline Text
+HTMLText_3ACCF636_29FD_7F22_41AE_7B8C1BC71A5C.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:136%;text-align:left;font-size:18.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0099ff;font-size:18.5px;"><B>Grupo Drones DF</B></SPAN></SPAN></DIV><DIV STYLE="line-height:136%;text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;"><B>INFORMAÇÕES</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:131%;text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">O Grupo DRONES DF é pioneiro na Elaboração de ações com objetivo de promover o nosso segmento.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:131%;text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Além dos Encontros Oficiais do grupo, temos a DRONE EXPO e agora nossa Exposição de Fotos Aéreas. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:131%;text-align:justify;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:13px;">Visite nossas redes sociais! </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:18px;">@grupodronesdf</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_3A2D0135_29CC_9526_41BA_4C980EF91751.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_2577FC0D_29CC_B2E6_41B7_BABCF54F06B7.toolTip = ACTIVATE VR MODE (MOBILE ONLY)
+IconButton_25779C0D_29CC_B2E6_41BE_B0B7911597D0.toolTip = PANORAMA LIST
+IconButton_25778C0D_29CC_B2E6_4194_101E9BE3CD5A.toolTip = PHOTO ALBUM
+IconButton_2577BC0D_29CC_B2E6_41BA_EEA2B0552AF2.toolTip = SHOW FLOORPLANS
+IconButton_2577AC0D_29CC_B2E6_41C1_51A4D4F1A3E3.toolTip = SHOW FLOORPLANS
+IconButton_25765C0D_29CC_B2E6_41AD_5EE701C1DEFC.toolTip = SHOW FLOORPLANS
+IconButton_25764C0D_29CC_B2E6_419D_EF26454A782B.toolTip = SHOW FLOORPLANS
 
 ## Tour
 
